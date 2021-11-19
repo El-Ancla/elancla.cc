@@ -42,6 +42,18 @@ ul {
   margin: 0;
   list-style: none;
 }
+.muted {
+  color: #8d8f92;
+}
+ul.list {
+  padding: inherit;
+  list-style: inherit;
+  margin-bottom: 2rem;
+}
+ul.list li {
+  padding-bottom: 1rem;
+  margin-left: 2rem;
+}
 a,
 a:active,
 a:focus,
@@ -255,7 +267,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #feature h2 {
   font-size: 28px;
   font-weight: 600;
-  margin-bottom: 30px;
+  margin: 0;
 }
 #feature p {
   color: #8d8f92;

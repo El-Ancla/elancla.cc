@@ -1,7 +1,9 @@
 # _data/navigation.yml
 - name: Home
   link: /
-- name: Blog
-  link: /blog/
-- name: Contacto
-  link: /contact/
+- name: Mision
+  link: /#intro
+- name: Vision
+  link: /#feature
+- name: Dar
+  link: /#call-to-action

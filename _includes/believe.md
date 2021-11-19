@@ -1,5 +1,8 @@
+<div class="section-title">
 <h2>Nuestra Visión:</h2>
-<h3>(como cumplimos la misión)</h3>
+<i>(como cumplimos la misión)</i>
+</div>
+
 <h3>Compromiso​​</h3>
 <p>
 Leer la Palabra de Dios (la Biblia) para conocerla y conocer la voluntad de Dios para nuestras vidas, poniendo en práctica lo que hemos aprendido diariamente.
@@ -8,7 +11,7 @@ Este es un compromiso individual y corporal para nuestra iglesia. Queremos ser s
 <h3>Comunión​</h3>
 <p>
 Nos comprometemos los unos a los otros en amor. Demostramos este tipo de amor de las siguientes maneras:</p>
-<ul>
+<ul class="list muted">
 <li>Brindando ayuda aunque nos incomode​</li>
 <li>Dando aunque nos cueste​</li>
 <li>Sirviendo antes de ser servidos​</li>

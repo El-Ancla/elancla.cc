@@ -1,6 +1,6 @@
 <div class="section-title">
           <h2>Nuestra Misión:</h2>
-          <h3>(la razón por la cual existimos)</h3>
+          <i>(la razón por la cual existimos)</i>
           </div>
           
 <p>Ser los eslabones de la cadena que conecten a las personas a nuestra ancla, Cristo Jesús, por medio de una relación personal con El.</p>
